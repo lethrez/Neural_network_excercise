@@ -1,3 +1,7 @@
+## PROVIDED FOR TRAINING THE NETWORK FOR COMP9444 ##
+## NOT WRITTEN BY LEO HOARE ##
+## WRITTEN BY ALAN BLAIR ##
+
 import tensorflow as tf
 import time
 from datetime import datetime
